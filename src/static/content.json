@@ -30,8 +30,9 @@
                "③ 熟悉MVC和MVVM设计模式与模块化开发流程；",
                "④ Sass 、Stylus、等预解析语言进行代码的高效开发和兼容；",
                "<h3 style='font-weight:600;color:cornflowerblue'>了解：</h3>",
-               "①  了解并会使用element-ui、mint-ui、vant等UI组件库；",
-               "②  了解React.js、Angular及ionic组件库；"
+               "① 了解并会使用element-ui、mint-ui、vant等UI组件库；",
+               "② 了解React.js、Angular及ionic组件库；",
+               "③ 对搭建网站整体流程有所了解"
             ]
         },
         {
